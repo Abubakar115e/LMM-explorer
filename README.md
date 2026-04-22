@@ -4,10 +4,10 @@ LLM Explorer is a powerful tool that allows you to run and test Large Language M
 
 ## Features
 
-- **Free GPU Access**: Utilizes Google Colab's T4 GPU resources for cost-effective LLM testing.
+- **Free GPU Access**: Utilizes Google Colab's free tier T4 GPU resources for cost-effective LLM testing.
 - **Interactive Chat Interface**: Streamlit-based UI for easy interaction with the LLM.
 - **Document Processing**: Upload and analyze PDF documents to provide context for the LLM.
-- **Multiple LLM Support**: Currently implements Llama 3.1, with potential for easy integration of other models.
+- **Multiple LLM Support**: Currently implements Llama 3.1 and you can use all models supported by Ollama.
 - **Vector Store Integration**: Uses Chroma for efficient storage and retrieval of document embeddings.
 
 ## Getting Started
